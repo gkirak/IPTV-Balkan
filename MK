@@ -1,19 +1,35 @@
 #EXTM3U
-#EXTINF:-1,Sitel HD
-http://195.181.169.152:8080/MACEDONIA/SITEL_HD/index.m3u8
-#EXTINF:-1,ALFA HD
-http://195.181.169.152:8080/MACEDONIA/ALFA_HD/index.m3u8
-#EXTINF:-1,TELMA
-http://195.181.169.152:8080/MACEDONIA/TELMA_HD/index.m3u8
-#EXTINF:-1,1_TV
-http://195.181.169.152:8080/MACEDONIA/1_TV/index.m3u8
-#EXTINF:-1,MRT 3
-http://195.181.169.152:8080/MACEDONIA/MRT_3/index.m3u8
-#EXTINF:-1,MRT 2
-http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8
-#EXTINF:-1,MRT 1 HD
-http://195.181.169.152:8080/MACEDONIA/MRT_1_HD/index.m3u8
-#EXTINF:-1, Folk
-http://195.181.169.152:8080/MACEDONIA/_FOLK/index.m3u8
-#EXTINF:-1,TV Nova
-http://195.181.169.152:8080/MACEDONIA/TV_NOVA/index.m3u8
+#EXTINF:-1,====== MAKEDONIJA ======
+http://mvip-tn.com:25461/live/lotfi26/56304325/13070.m3u8
+#EXTINF:-1,MRT 1 (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13071.m3u8
+#EXTINF:-1,MRT 2 (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13072.m3u8
+#EXTINF:-1,channel_4
+http://mvip-tn.com:25461/live/lotfi26/56304325/13073.m3u8
+#EXTINF:-1,KANAL 5 (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13074.m3u8
+#EXTINF:-1,SITEL HD (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13075.m3u8
+#EXTINF:-1,channel_7
+http://mvip-tn.com:25461/live/lotfi26/56304325/13076.m3u8
+#EXTINF:-1,24 VESTI (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13077.m3u8
+#EXTINF:-1,EDO TV (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13078.m3u8
+#EXTINF:-1,TV + KUMANOVO (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13079.m3u8
+#EXTINF:-1,HUGO 1 (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13080.m3u8
+#EXTINF:-1,HUGO 2 (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13081.m3u8
+#EXTINF:-1,IN TV (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13082.m3u8
+#EXTINF:-1,SKY FOLK (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13083.m3u8
+#EXTINF:-1,TV SHENJA (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13084.m3u8
+#EXTINF:-1,ERA TV (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13085.m3u8
+#EXTINF:-1,RTV 21 (MK)
+http://mvip-tn.com:25461/live/lotfi26/56304325/13086.m3u8
